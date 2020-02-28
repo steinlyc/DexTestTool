@@ -1,0 +1,19 @@
+.depthPage{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.depthLabel{
+    display: inline-block;
+    width:10%;
+}
+
+.depthInp{
+    width:90%;
+}
+
+.depthButton{
+    display: block;
+    width: 200px;
+    margin: 0 auto;
+}

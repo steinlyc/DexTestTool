@@ -1,0 +1,29 @@
+.logo {
+  width: 144px;
+  height: 32px;
+  background-image: url(../../statics/logo.png);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  margin: 10px auto;
+}
+
+.sider {
+  overflow: "auto";
+  height: 100vh;
+  position: fixed;
+  left: 0;
+}
+
+.footer {
+  text-align: center;
+}
+
+.Rlayout {
+  margin-left: 200px;
+  min-height: 100vh;
+}
+
+.content {
+  margin: 24px 16px 0;
+  overflow: initial;
+}

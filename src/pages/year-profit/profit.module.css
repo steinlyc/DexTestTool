@@ -1,0 +1,30 @@
+.profitPage{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.profitDiv{
+    overflow: hidden;
+    width: 100%;
+}
+
+.profitLab{
+    float: left;
+    width: 15%;
+}
+
+.profitIpt{
+    float: right;
+    width: 85%;
+    height: 40px;
+}
+
+.depthButton{
+    display: block;
+    margin: 0 auto;
+}
+
+.yearProfit{
+    text-align: center;
+    font-size: 16px;
+}
